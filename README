@@ -2,4 +2,4 @@ My third year internship project on Web Recommender Systems. Its an intelligent 
 We use three basic recommendation techniques over here viz. Content based, Collaborative and Demographic. In addition to these we finally use the generated results and combine the three techniques into a hybrid technique of Weighted Recommender system. The whole data set is split into two portions, one of which is used to train the system and predict ratings and the second of which is used to compare the predicted ratings to. 
 The data set used here(MovieLens) can be downloaded for free from grouplens.org/node/73. 
 
-guojian modify it 2025.5.12 9:23 9:34 9:40
+guojian modify it 2025.5.12 9:23 9:34 9:40 9:49
